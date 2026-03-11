@@ -1,0 +1,9 @@
+{
+	"name": "adf123spotify123",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d531c15c-4dbf-43dd-8d59-4e7aefc0c66e",
+		"tenantId": "3d7f338d-7314-4c49-b042-9470d260ea42"
+	}
+}
